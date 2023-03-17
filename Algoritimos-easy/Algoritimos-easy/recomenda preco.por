@@ -49,7 +49,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 589; 
+ * @POSICAO-CURSOR = 35; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = {nome_produto_1, 7, 17, 14}-{nome_produto_2, 7, 32, 14}-{nome_produto_3, 7, 47, 14}-{primeiro_valor, 8, 15, 14}-{segundo_valor, 8, 30, 13}-{terceiro_valor, 8, 44, 14};
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
