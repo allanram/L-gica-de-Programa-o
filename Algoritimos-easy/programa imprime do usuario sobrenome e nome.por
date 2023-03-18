@@ -8,7 +8,7 @@ programa
 		leia(primeiro_nome)
 		escreva("Digite seu segundo nome: ")
 		leia(segundo_nome)
-          escreva(segundo_nome,",",primeiro_nome,".") 
+                escreva(segundo_nome,",",primeiro_nome,".") 
 		
 		
 	}
