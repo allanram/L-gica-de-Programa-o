@@ -3,7 +3,7 @@ programa
 	
 	funcao inicio()
 	{
-		escreva("Usuário me informe o nome do primeiro produto \n")
+	  escreva("Usuário me informe o nome do primeiro produto \n")
           cadeia nome_produto_1,nome_produto_2,nome_produto_3
           real primeiro_valor,segundo_valor,terceiro_valor 
           leia(nome_produto_1)
