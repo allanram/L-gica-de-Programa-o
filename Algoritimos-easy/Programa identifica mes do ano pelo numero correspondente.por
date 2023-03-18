@@ -9,33 +9,33 @@ programa
 
 		escolha( numero_do_mes)
 		{
-			caso 1:   escreva("JANEIRO.")	pare
+	           caso 1:   escreva("JANEIRO.")pare
                
-               caso 2:   escreva("FEVEREIRO.") pare
+                   caso 2:   escreva("FEVEREIRO.") pare
 
-			caso 3:   escreva("MARÇO.")pare
+	           caso 3:   escreva("MARÇO.")pare
 
-			caso 4:   escreva("ABRIL") pare
+		   caso 4:   escreva("ABRIL") pare
 
-			caso 5:   escreva("MAIO.") pare
+		   caso 5:   escreva("MAIO.") pare
 
-			caso 6:   escreva("JUNHO.")pare
+	           caso 6:   escreva("JUNHO.")pare
 
-               caso 7:   escreva("JULHO.") pare
+                   caso 7:   escreva("JULHO.") pare
 
-               caso 8:   escreva("AGOSTO.") pare
+                   caso 8:   escreva("AGOSTO.") pare
 
-               caso 9:   escreva("SETEMBRO.") pare
+                   caso 9:   escreva("SETEMBRO.") pare
 
-               caso 10:  escreva("OUTUBRO.") pare
+                   caso 10:  escreva("OUTUBRO.") pare
 
-               caso 11:  escreva("NOVEMBRO.") pare
+                   caso 11:  escreva("NOVEMBRO.") pare
 
-               caso 12:  escreva("DEZEMBRO")
-               pare
-
-               caso contrario:
-               escreva("Para identificar o mes do ano, insira numeros de 1 á 12")
+                   caso 12:  escreva("DEZEMBRO")  pare
+             
+                   caso contrario:
+                             escreva("Para identificar o mes do ano, insira numeros de 1 á 12")
+               
 		}
 		
 	}
