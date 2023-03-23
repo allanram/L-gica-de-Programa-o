@@ -3,29 +3,29 @@ programa
 	
 	funcao inicio()
 	{
-		real x,y,z,k,w
+          real x,y,z,k,w
           escreva("digite um valor para x: ")
-	     leia(x)
-	     escreva("digite um valor para y: ")
-	     leia(y)
-	     escreva("digite um valor para z: ")
-	     leia(z)
-	     escreva("digite um valor para k: ")
-	     leia(k)
-	     escreva("digite um valor para w: ")
-	     leia(w)
+	  leia(x)
+	  escreva("digite um valor para y: ")
+	  leia(y)
+	  escreva("digite um valor para z: ")
+	  leia(z)
+	  escreva("digite um valor para k: ")
+	  leia(k)
+	  escreva("digite um valor para w: ")
+	  leia(w)
 	     
-	     x=(2*y-3)
-	     w= x*(z-k)
-	     w= x+y-2
-	     y=z
-	     z= y-z
-	     w= x*y+(4*z)
-	     x=x-1
-	     y=x
-	     w=x-k
-	     z=y*y
-	     w=x-k
+	  x=(2*y-3)
+	  w= x*(z-k)
+	  w= x+y-2
+	  y=z
+	  z= y-z
+	  w= x*y+(4*z)
+	  x=x-1
+	  y=x
+	  w=x-k
+	  z=y*y
+	  w=x-k
           escreva("=============================\n")
           escreva("\n valor da variavel x é: ",x)
           escreva("\n valor da variavel y é: ",y)
