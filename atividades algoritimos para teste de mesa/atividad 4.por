@@ -30,12 +30,12 @@ programa
 	     }
 	     x=w*y
 	     k=3-y+w
-	  escreva("=============================\n")
-          escreva("\n valor da variavel x é: ",x)
-          escreva("\n valor da variavel y é: ",y)
-          escreva("\n valor da variavel z é: ",z)
-          escreva("\n valor da variavel k é: ",k)
-          escreva("\n valor da variavel w é: ",w)
+	     escreva("=============================\n")
+             escreva("\n valor da variavel x é: ",x)
+             escreva("\n valor da variavel y é: ",y)
+             escreva("\n valor da variavel z é: ",z)
+             escreva("\n valor da variavel k é: ",k)
+             escreva("\n valor da variavel w é: ",w)
 	}
 }
 /* $$$ Portugol Studio $$$ 
