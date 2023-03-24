@@ -3,7 +3,7 @@ programa
 	
 	funcao inicio()
 	{
-		real x,y,z,k,w
+	     real x,y,z,k,w
 	     escreva("digite um valor para x: ")
 	     leia(x)
 	     escreva("digite um valor para y: ")
@@ -26,11 +26,11 @@ programa
 	     w=z+5*3-7
 	     k= k+3*2-5
 	     escreva("=============================\n")
-          escreva("\n valor da variavel x é: ",x)
-          escreva("\n valor da variavel y é: ",y)
-          escreva("\n valor da variavel z é: ",z)
-          escreva("\n valor da variavel k é: ",k)
-          escreva("\n valor da variavel w é: ",w)
+             escreva("\n valor da variavel x é: ",x)
+             escreva("\n valor da variavel y é: ",y)
+             escreva("\n valor da variavel z é: ",z)
+             escreva("\n valor da variavel k é: ",k)
+             escreva("\n valor da variavel w é: ",w)
 	     
 	     
 	}
