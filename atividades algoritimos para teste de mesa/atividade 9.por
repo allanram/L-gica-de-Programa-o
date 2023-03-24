@@ -3,17 +3,17 @@ programa
 	
 	funcao inicio()
 	{
-		inteiro x,y,z,k,w
+	  inteiro x,y,z,k,w
           escreva("digite um valor para x: ")
-	     leia(x)
-	     escreva("digite um valor para y: ")
-	     leia(y)
-	     escreva("digite um valor para z: ")
-	     leia(z)
-	     escreva("digite um valor para k: ")
-	     leia(k)
-	     escreva("digite um valor para w: ")
-	     leia(w)
+	  leia(x)
+	  escreva("digite um valor para y: ")
+	  leia(y)
+	  escreva("digite um valor para z: ")
+	  leia(z)
+	  escreva("digite um valor para k: ")
+	  leia(k)
+	  escreva("digite um valor para w: ")
+	  leia(w)
 
 	     se(y>4 ou x<w)
 	    {
@@ -47,13 +47,14 @@ programa
 	    	{
 	    		k=y*3-z
 	    	}
-	     escreva("=============================\n")
+	 
+	    }
+	  escreva("=============================\n")
           escreva("\n valor da variavel x é: ",x)
           escreva("\n valor da variavel y é: ",y)
           escreva("\n valor da variavel z é: ",z)
           escreva("\n valor da variavel k é: ",k)
           escreva("\n valor da variavel w é: ",w)
-	    }
 	}
 }
 /* $$$ Portugol Studio $$$ 
