@@ -10,10 +10,10 @@ programa
 
 		para(cont=1.0; cont<=numero_alunos; cont++)
 		{
-			escreva("Digite as notas do aluno",cont,":\n")
-			leia(nota_1)
-			leia(nota_2)
-			nota_total = nota_1+nota_2+nota_total
+	           escreva("Digite as notas do aluno",cont,":\n")
+	           leia(nota_1)
+		   leia(nota_2)
+		   nota_total = nota_1+nota_2+nota_total
 		}
 		 media = (nota_total)/(numero_alunos*2)
 		 escreva("A media da turma foi:",media)
