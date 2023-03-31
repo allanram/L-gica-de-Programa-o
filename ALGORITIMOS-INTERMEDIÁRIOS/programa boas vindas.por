@@ -7,7 +7,7 @@ programa
 		caracter sexo = 'f'
 		inteiro quant_pessoas,controle=0
 		
-          escreva("Quantas pessoas serao dadas boas vindas? ")
+                escreva("Quantas pessoas serao dadas boas vindas? ")
 		leia(quant_pessoas)
 		controle= quant_pessoas
 		para(controle=0;controle<=quant_pessoas;controle++)
