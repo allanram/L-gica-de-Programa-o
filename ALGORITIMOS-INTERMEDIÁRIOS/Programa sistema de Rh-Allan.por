@@ -100,24 +100,24 @@ programa
 	}
 	funcao simulador_adicional_noturno()
 	{
-        real valorHoraTrabalho
-        real salarioBruto
-        inteiro cargaHoraria
-        real valorHora
-        real valorAdicionalNoturno
-        real horasNoturnas
-        real salarioAdicional
-        escreva("Informe o valor do salario:\n")
-        leia(salarioBruto)
-        escreva("informe a carga horaria mensal:\n")
-        leia(cargaHoraria)
-        escreva("informe as horas noturnas trabalhadas:\n")
-        leia(horasNoturnas)
+           real valorHoraTrabalho
+           real salarioBruto
+           inteiro cargaHoraria
+           real valorHora
+           real valorAdicionalNoturno
+           real horasNoturnas
+           real salarioAdicional
+           escreva("Informe o valor do salario:\n")
+           leia(salarioBruto)
+           escreva("informe a carga horaria mensal:\n")
+           leia(cargaHoraria)
+           escreva("informe as horas noturnas trabalhadas:\n")
+           leia(horasNoturnas)
 	   valorHora = salarioBruto/cargaHoraria 
 	   valorHoraTrabalho = valorHora*0.2
 	   valorAdicionalNoturno = horasNoturnas* valorHoraTrabalho
-        salarioAdicional = salarioBruto+valorAdicionalNoturno
-        escreva("Seu salario bruto somado adicionado ao adicional noturno é de:", salarioAdicional)
+           salarioAdicional = salarioBruto+valorAdicionalNoturno
+           escreva("Seu salario bruto somado adicionado ao adicional noturno é de:", salarioAdicional)
 	}
 	funcao simulador_horas_extras()
 	{
